@@ -2,6 +2,6 @@
 export default {};
 </script>
 <template>
-  <footer id="footer">blá</footer>
+  <footer id="footer">conteúdo</footer>
 </template>
 <style></style>

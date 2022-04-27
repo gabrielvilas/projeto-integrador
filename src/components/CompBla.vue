@@ -2,6 +2,6 @@
 export default {};
 </script>
 <template>
-  <div class="block">bla</div>
+  <div class="block">conteúdo</div>
 </template>
 <style></style>

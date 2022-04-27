@@ -1,10 +1,17 @@
 <script>
-export default { components: { CompBla } };
-import CompBla from "@/components/CompBla.vue";
+export default { components: { NovoBloco } };
+import NovoBloco from "@/components/CompBla.vue";
 </script>
 <template>
 <main id="content">
-    <CompBla/>
+    <NovoBloco/>
+    <NovoBloco class="alerta" />
+    <NovoBloco/>
+    <NovoBloco/>
+    <NovoBloco class="alerta" />
+    <NovoBloco/>
+    <NovoBloco/>
+    <NovoBloco/>
 </main>
 </template>
 <style></style>

@@ -2,6 +2,6 @@
 export default {};
 </script>
 <template>
-  <header id="header">blá</header>
+  <header id="header">conteúdo</header>
 </template>
 <style></style>
